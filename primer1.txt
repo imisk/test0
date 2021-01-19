@@ -3,3 +3,5 @@ blablabla ovo je init
 init broj jedan
 
 to kazem ja!
+
+i jos nesto ...
